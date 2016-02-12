@@ -62,6 +62,10 @@
   "name": "skipper-sql",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
+  "repository" : {
+     "type":"git",
+     "url" : "https://github.com/phillyfan1138/skipper-sql"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
