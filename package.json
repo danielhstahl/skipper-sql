@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      "skipper-sql",
+      "/home/daniel/Documents/nodejs"
+    ]
+  ],
+  "_from": "skipper-sql@*",
+  "_id": "skipper-sql@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/skipper-sql",
+  "_nodeVersion": "0.12.7",
+  "_npmOperationalInternal": {
+    "host": "packages-9-west.internal.npmjs.com",
+    "tmp": "tmp/skipper-sql-1.0.1.tgz_1455197619445_0.5140795898623765"
+  },
+  "_npmUser": {
+    "email": "danstahl1138@gmail.com",
+    "name": "phillyfan1138"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "skipper-sql",
+    "raw": "skipper-sql",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/skipper-sql/-/skipper-sql-1.0.1.tgz",
+  "_shasum": "7723921490ebe0a5b51c132f5dc8ce53e7e03018",
+  "_shrinkwrap": null,
+  "_spec": "skipper-sql",
+  "_where": "/home/daniel/Documents/nodejs",
+  "author": {
+    "name": "Daniel Stahl"
+  },
+  "dependencies": {
+    "lodash": "^4.3.0",
+    "mssql": "^3.0.1"
+  },
+  "description": "stream files to sql server",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "7723921490ebe0a5b51c132f5dc8ce53e7e03018",
+    "tarball": "http://registry.npmjs.org/skipper-sql/-/skipper-sql-1.0.1.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "phillyfan1138",
+      "email": "danstahl1138@gmail.com"
+    }
+  ],
+  "name": "skipper-sql",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
