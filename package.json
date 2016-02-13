@@ -6,7 +6,7 @@
     ]
   ],
   "_from": "skipper-sql@*",
-  "_id": "skipper-sql@1.0.1",
+  "_id": "skipper-sql@1.0.2",
   "_inCache": true,
   "_installable": true,
   "_location": "/skipper-sql",
@@ -69,5 +69,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
